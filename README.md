@@ -6,7 +6,17 @@ The Gutenberg Bible is one of the most significant books in human history, repre
 
 Books
 
-Title: The Gutenberg BibleCreator: Johannes GutenbergDate of Creation: c. 1454-1455Format: Printed book, movable typeLanguage: LatinDescription: The Gutenberg Bible, also known as the 42-line Bible, was the first major book printed using movable type technology. It consists of two volumes, featuring intricate typography, illuminations, and rubrication. Surviving copies are rare, with approximately 49 known partial or complete copies worldwide (Pettegree, 2010).
+Title: The Gutenberg Bible
+
+Creator: Johannes Gutenberg
+
+Date of Creation: c. 1454-1455
+
+Format: Printed book, movable type
+
+Language: Latin
+
+Description: The Gutenberg Bible, also known as the 42-line Bible, was the first major book printed using movable type technology. It consists of two volumes, featuring intricate typography, illuminations, and rubrication. Surviving copies are rare, with approximately 49 known partial or complete copies worldwide (Pettegree, 2010).
 
 Context
 
