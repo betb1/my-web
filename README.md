@@ -1,5 +1,7 @@
 Preserving the Legacy of the Gutenberg Bible: A Digital Exhibit
+
 Introduction
+
 The Gutenberg Bible is one of the most significant books in human history, representing the advent of mass communication through the invention of the printing press. Printed by Johannes Gutenberg in the 15th century, this book transformed the dissemination of knowledge and literacy (Eisenstein, 1983). However, the Gutenberg Bible is endangered due to its fragile physical state and limited surviving copies. This exhibit aims to educate viewers about the historical, technological, and cultural significance of the Gutenberg Bible while demonstrating how digital preservation ensures its legacy remains accessible to future generations (Liu, 2004).
 
 Books
@@ -27,6 +29,7 @@ Pressing: A screw press mechanism transferred ink onto parchment or paper, produ
 The production required substantial economic and infrastructural investment, including skilled labor, specialized materials, and patronage from wealthy individuals or institutions. The Gutenberg Bible’s success led to the rapid spread of printing technology, shaping modern publishing industries (Febvre & Martin, 1976).
 
 Conclusions
+
 The historical context surrounding the Gutenberg Bible highlights the interplay between technological innovation and socio-cultural transformation. Its creation marked a turning point in information dissemination, literacy, and intellectual exchange, influencing the Reformation, scientific progress, and modern education systems (Eisenstein, 1983).
 
 From a preservation perspective, digitization represents a "new media encounter," as discussed by Alan Liu (2004). While digital versions of the Gutenberg Bible enhance accessibility and ensure its survival, they also introduce challenges regarding textual stability and authenticity. The original book’s materiality—its paper texture, binding, and illuminations—cannot be fully replicated in digital form. However, digitization provides an invaluable means of safeguarding the text against deterioration, ensuring global access, and enabling new forms of scholarly engagement.
